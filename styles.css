@@ -21,7 +21,7 @@ header {
 
 .container {
   max-width: 1200px;
-  width: 100%;
+  width: 90%;
   margin: auto;
 }
 
@@ -123,8 +123,6 @@ header {
 .about-me {
   background-color: #f0f0e6;
   padding: 12rem 0;
-  height: 100vh;
-  border-bottom: 2px solid #07374a;
 }
 
 .about-me .about-heading {
@@ -172,7 +170,7 @@ header {
 /* ///.....Skill Bar....../// */
 
 .skills-bar {
-  padding: 20px 30px;
+  padding: 25px 30px;
 }
 
 .skills-bar .bar {
@@ -309,7 +307,7 @@ header {
 }
 
 .work-arrow-2 {
-  margin: 0rem 0;
+  margin: 2rem 0;
   color: #07374a;
 }
 
@@ -324,9 +322,7 @@ header {
 
 .portfolio {
   background: #f0f0e6;
-  padding: 1rem 0;
-  height: 100vh;
-  border-top: 2px solid #07374a;
+  padding: 6rem 0;
 }
 
 .proj-heading h1 {
@@ -334,14 +330,13 @@ header {
   color: #07374a;
   font-size: 2.3rem;
   font-weight: 700;
-  margin-top: 3rem;
+  margin: 3rem 0;
 }
 
 .proj-1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  margin-top: 1rem;
 }
 
 .proj-1 img {
@@ -481,7 +476,7 @@ header {
 
 .more-work {
   text-align: center;
-  margin: 1rem 0 1rem 0;
+  margin: 3rem 0 1rem 0;
 }
 
 .more-work p {
@@ -508,7 +503,7 @@ header {
     url(https://lh3.googleusercontent.com/yC2NizcRoy4e-m7-CeQzsn7GWUoX7hz8od5XDLoSkVFIf7-G0kLvg6qQ2TvhGdRb9QXcExzdPdxjZSd4OcqPZEUAkzW5FaOh4zV7XMffGkuKnCgtO6ijzfEIe5Q9PrPRR_rqT0hkRw=w2400);
   position: relative;
   background-repeat: no-repeat;
-  height: 90vh;
+  height: 92vh;
   background-size: 100% 100%;
 }
 
@@ -566,10 +561,6 @@ header {
     background-size: cover;
   }
 
-  .about-me {
-    padding: 7rem 0;
-  }
-
   .about-content .left-content {
     flex-basis: 100%;
     text-align: center;
@@ -591,17 +582,8 @@ header {
     display: none;
   }
 
-  .right-content {
-    padding-top: 0rem;
-  }
-
   .right-content h1 {
-    margin-top: 2rem;
-    margin-bottom: -3rem;
-  }
-
-  .portfolio {
-    padding: 5rem 0;
+    margin-top: 3.2rem;
   }
 
   .proj-1 {
@@ -654,10 +636,6 @@ header {
     background-size: cover;
   }
 
-  .about-me {
-    padding: 10rem 0;
-  }
-
   .about-content .left-content {
     flex-basis: 100%;
     text-align: center;
@@ -681,10 +659,6 @@ header {
 
   .right-content h1 {
     margin-top: 3.2rem;
-  }
-
-  .portfolio {
-    padding: 3rem 0;
   }
 
   .proj-1 {
@@ -737,10 +711,6 @@ header {
     background-size: cover;
   }
 
-  .about-me {
-    padding: 6rem 0;
-  }
-
   .about-content .left-content {
     flex-basis: 100%;
     text-align: center;
@@ -778,10 +748,6 @@ header {
     color: #07374a;
     display: block;
     text-align: center;
-  }
-
-  .portfolio {
-    padding: 5rem 0;
   }
 
   .contact-content {
